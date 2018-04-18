@@ -1,8 +1,3 @@
----
-Title: Aubrey's Really Stupid Template
-bibliography: biblio.bib
-summary:This template was created to make it easier to write a publication that would then be more easily finished by CNAS’ design employees.  There is no need to add page numbers, footers, headers, etc. as all that formatting will be done in the final layout.  Please send the graphic designer copies of images/graphics OUTSIDE of this document because embedded images will not be of the original quality. 
-~~~
 
 # Publication title
 ## Author Name, Author Name, Author Name
