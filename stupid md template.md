@@ -17,7 +17,7 @@ Molestie mattis justo nunc ligula consequat mauris, tellus tincidunt sapien nec 
 * Imperdiet in eu, purus suscipit est ligula sed.
 * Imperdiet in eu, purus suscipit est ligula sed.
 
-### Subection Containing a Figure
+### Subsection Containing a Figure
 
 ![](happy.png)
 
