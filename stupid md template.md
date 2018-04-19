@@ -19,7 +19,8 @@ Molestie mattis justo nunc ligula consequat mauris, tellus tincidunt sapien nec 
 
 ### Subection Containing a Figure
 
-![](happy.png) 
+![](happy.png)
+
 **Figure 1. Don't worry. Be happy.**
 
 ### Subsection Containing a Table
